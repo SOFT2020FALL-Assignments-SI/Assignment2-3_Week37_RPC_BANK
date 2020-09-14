@@ -1,0 +1,6 @@
+2020-09-14 20:59:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS_ACCOUNTS" not found; SQL statement:
+INSERT INTO Transactions_accounts (accnum, type, amount) VALUES (1234,'withdraw',123.0); [42102-200]
+2020-09-14 21:01:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS_ACCOUNTS" not found; SQL statement:
+INSERT INTO Transactions_accounts (accnum, type, amount) VALUES (1234,'withdraw',123.0); [42102-200]
