@@ -1,4 +1,4 @@
-## Assignment 2-1_Week37_RPC_Bank
+## Assignment 2-3_Week37_RPC_Bank
 **[Assignment Link](https://datsoftlyngby.github.io/soft2020fall/resources/53040c09-A2-RPC.pdf)**  
 
 **dk.mf.rpc.bank.server.BankApplication**:  
